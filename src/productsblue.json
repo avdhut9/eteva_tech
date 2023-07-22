@@ -1,0 +1,302 @@
+[{
+  "id":1,
+  "name": "DIPTYQUE",
+  "image": "https://cdn.shopify.com/s/files/1/0283/0185/2747/products/global_images-3700431400031-1_288x288.jpg?v=1675144037",
+  "price": 72,
+  "reviews": 4,
+  "qty": 1
+},{
+  "id":2,
+  "name": "SOLAWAVE",
+  "image": "https://cdn.shopify.com/s/files/1/0283/0185/2747/products/global_images-860004981145-1_288x288.jpg?v=1674684005",
+  "price": 119,
+  "reviews": 4,
+  "qty": 1
+},{
+  "id":3,
+  "name": "NARS",
+  "image": "https://cdn.shopify.com/s/files/1/0283/0185/2747/products/variant_images-color-chocolatd0-607845013785-1_288x288.jpg?v=1674772612",
+  "price": 32,
+  "reviews": 4,
+  "qty": 1
+},{
+  "id":4,
+  "name": "M-61",
+  "image": "https://cdn.shopify.com/s/files/1/0283/0185/2747/products/global_images-817237013501-1_288x288.jpg?v=1675356085",
+  "price": 86,
+  "reviews": 4,
+  "qty": 1
+},{
+  "id":5,
+  "name": "CAUDALIE",
+  "image": "https://cdn.shopify.com/s/files/1/0283/0185/2747/products/global_images-3522930003243-1_288x288.jpg?v=1675405207",
+  "price": 82,
+  "reviews": 4,
+  "qty": 1
+},{
+  "id":6,
+  "name": "SISLEY",
+  "image": "https://cdn.shopify.com/s/files/1/0283/0185/2747/products/variant_images-color-4coral-3473311867049-1_288x288.jpg?v=1675435906",
+  "price": 60,
+  "reviews": 4,
+  "qty": 1
+},{
+  "id":7,
+  "name": "MASK",
+  "image": "https://cdn.shopify.com/s/files/1/0283/0185/2747/products/global_images-867999000356-1_288x288.jpg?v=1671313096",
+  "price": 22,
+  "reviews": 4,
+  "qty": 1
+},{
+  "id":8,
+  "name": "HOURGLASS",
+  "image": "https://cdn.shopify.com/s/files/1/0283/0185/2747/products/variant_images-color-oasis312-850014440435-1_288x288.jpg?v=1674779541",
+  "price": 46,
+  "reviews": 4,
+  "qty": 1
+},{
+  "id":9,
+  "name": "SKIN",
+  "image": "https://cdn.shopify.com/s/files/1/0283/0185/2747/products/variant_images-size-1treatment-5060280374272-1_288x288.jpg?v=1675218419",
+  "price": 32,
+  "reviews": 4,
+  "qty": 1
+},{
+  "id":10,
+  "name": "HARLEM",
+  "image": "https://cdn.shopify.com/s/files/1/0283/0185/2747/products/global_images-857457008857-1_288x288.jpg?v=1673967546",
+  "price": 48,
+  "reviews": 4,
+  "qty": 1
+},{
+  "id":11,
+  "name": "NARS",
+  "image": "https://cdn.shopify.com/s/files/1/0283/0185/2747/products/variant_images-color-tempted-607845040781-1_288x288.jpg?v=1675694386",
+  "price": 30,
+  "reviews": 4,
+  "qty": 1
+},{
+  "id":12,
+  "name": "SUNDAY",
+  "image": "https://cdn.shopify.com/s/files/1/0283/0185/2747/products/global_images-810031550500-1_288x288.jpg?v=1675361697",
+  "price": 20,
+  "reviews": 4,
+  "qty": 1
+},{
+  "id":13,
+  "name": "ORIBE",
+  "image": "https://cdn.shopify.com/s/files/1/0283/0185/2747/products/global_images-840035219721-1_288x288.jpg?v=1674239987",
+  "price": 25,
+  "reviews": 4,
+  "qty": 1
+},{
+  "id":14,
+  "name": "HARLEM CANDLE CO.",
+  "image": "https://cdn.shopify.com/s/files/1/0283/0185/2747/products/global_images-857457008864-1_288x288.jpg?v=1673967557",
+  "price": 22,
+  "reviews": 4,
+  "qty": 1
+},{
+  "id":15,
+  "name": "BEAUTYSTAT",
+  "image": "https://cdn.shopify.com/s/files/1/0283/0185/2747/products/variant_images-size-30treatments-860007013669-1_288x288.jpg?v=1671554166",
+  "price": 29,
+  "reviews": 4,
+  "qty": 1
+},{
+  "id":16,
+  "name": "SKIN",
+  "image": "https://cdn.shopify.com/s/files/1/0283/0185/2747/products/global_images-635494358001-1_288x288.jpg?v=1675401397",
+  "price": 105,
+  "reviews": 4,
+  "qty": 1
+},{
+  "id":17,
+  "name": "OURSELF",
+  "image": "https://cdn.shopify.com/s/files/1/0283/0185/2747/products/global_images-850038687069-1_288x288.jpg?v=1673039228",
+  "price": 145,
+  "reviews": 4,
+  "qty": 1
+},{
+  "id":18,
+  "name": "TATA",
+  "image": "https://cdn.shopify.com/s/files/1/0283/0185/2747/products/global_images-813269025703-1_288x288.jpg?v=1675212844",
+  "price": 88,
+  "reviews": 4,
+  "qty": 1
+},{
+  "id":19,
+  "name": "CLINICAL",
+  "image": "https://cdn.shopify.com/s/files/1/0283/0185/2747/products/global_images-817244010036-1_288x288.jpg?v=1669025257",
+  "price": 142,
+  "reviews": 4,
+  "qty": 1
+},{
+  "id":20,
+  "name": "SUPERGROOP",
+  "image": "https://cdn.shopify.com/s/files/1/0283/0185/2747/products/enhanced_images-p816218026882-2_288x288.jpg?v=1675280311",
+  "price": 38,
+  "reviews": 4,
+  "qty": 1
+},{
+  "id":21,
+  "name": "SISLEY",
+  "image": "https://cdn.shopify.com/s/files/1/0283/0185/2747/products/global_images-3473311400000-1_288x288.jpg?v=1675407285",
+  "price": 190,
+  "reviews": 4,
+  "qty": 1
+},{
+  "id":22,
+  "name": "SKIN",
+  "image": "https://cdn.shopify.com/s/files/1/0283/0185/2747/products/global_images-3606000434967-1_288x288.jpg?v=1675403394",
+  "price": 150,
+  "reviews": 4,
+  "qty": 1
+},{
+  "id":23,
+  "name": "EBI",
+  "image": "https://cdn.shopify.com/s/files/1/0283/0185/2747/products/global_images-439109412184-1_288x288.jpg?v=1664958654",
+  "price": 75,
+  "reviews": 4,
+  "qty": 1
+},{
+  "id":24,
+  "name": "BEAUTYSTAT",
+  "image": "https://cdn.shopify.com/s/files/1/0283/0185/2747/products/global_images-860001453058-1_288x288.jpg?v=1675717587",
+  "price": 40,
+  "reviews": 4,
+  "qty": 1
+},{
+  "id":25,
+  "name": "DIPTYQUE",
+  "image": "https://cdn.shopify.com/s/files/1/0283/0185/2747/products/global_images-3700431444394-1_288x288.jpg?v=1674660766",
+  "price": 25,
+  "reviews": 4,
+  "qty": 1
+},{
+  "id":26,
+  "name": "MALONE",
+  "image": "https://cdn.shopify.com/s/files/1/0283/0185/2747/products/global_images-690251124824-1_288x288.jpg?v=1674573438",
+  "price": 75,
+  "reviews": 4,
+  "qty": 1
+},{
+  "id":27,
+  "name": "BARBARA",
+  "image": "https://cdn.shopify.com/s/files/1/0283/0185/2747/products/global_images-4015165337645-1_288x288.jpg?v=1673630241",
+  "price": 320,
+  "reviews": 4,
+  "qty": 1
+},{
+  "id":28,
+  "name": "HARLEM CANDLE CO.",
+  "image": "https://cdn.shopify.com/s/files/1/0283/0185/2747/products/global_images-857457008086-1_288x288.jpg?v=1667507326",
+  "price": 65,
+  "reviews": 4,
+  "qty": 1
+},{
+  "id":29,
+  "name": "TRISH",
+  "image": "https://cdn.shopify.com/s/files/1/0283/0185/2747/products/variant_images-color-shade3-791222972236-1_288x288.jpg?v=1675434438",
+  "price": 46,
+  "reviews": 4,
+  "qty": 1
+},{
+  "id":30,
+  "name": "ORIBE",
+  "image": "https://cdn.shopify.com/s/files/1/0283/0185/2747/products/variant_images-size-22oz-840035209937-1_288x288.jpg?v=1668922247",
+  "price": 24,
+  "reviews": 4,
+  "qty": 1
+},{
+  "id":31,
+  "name": "M-61",
+  "image": "https://cdn.shopify.com/s/files/1/0283/0185/2747/products/global_images-817237011958-1_288x288.jpg?v=1673632809",
+  "price": 88,
+  "reviews": 4,
+  "qty": 1
+},{
+  "id":32,
+  "name": "CLINICAL",
+  "image": "https://cdn.shopify.com/s/files/1/0283/0185/2747/products/global_images-817244010234-1_288x288.jpg?v=1669025301",
+  "price": 45,
+  "reviews": 4,
+  "qty": 1
+},{
+  "id":33,
+  "name": "BUMBLE",
+  "image": "https://cdn.shopify.com/s/files/1/0283/0185/2747/products/variant_images-size-2floz60ml-685428019829-1_288x288.jpg?v=1675207373",
+  "price": 68,
+  "reviews": 4,
+  "qty": 1
+},{
+  "id":34,
+  "name": "CHANTECAILLE",
+  "image": "https://cdn.shopify.com/s/files/1/0283/0185/2747/products/global_images-656509714605-1_288x288.jpg?v=1675406105",
+  "price": 215,
+  "reviews": 4,
+  "qty": 1
+},{
+  "id":35,
+  "name": "BENEATH YOUR MASK",
+  "image": "https://cdn.shopify.com/s/files/1/0283/0185/2747/products/variant_images-size-68oz200ml-867999000370-1_288x288.jpg?v=1671313061",
+  "price": 35,
+  "reviews": 4,
+  "qty": 1
+},{
+  "id":36,
+  "name": "SUNDAY",
+  "image": "https://cdn.shopify.com/s/files/1/0283/0185/2747/products/global_images-810031550319-1_288x288.jpg?v=1675361638",
+  "price": 15,
+  "reviews": 4,
+  "qty": 1
+},{
+  "id":38,
+  "name": "ALPYN",
+  "image": "https://cdn.shopify.com/s/files/1/0283/0185/2747/products/global_images-856862008100-1_288x288.jpg?v=1671312572",
+  "price": 56,
+  "reviews": 4,
+  "qty": 1
+},{
+  "id":39,
+  "name": "SUPERGROOP",
+  "image": "https://cdn.shopify.com/s/files/1/0283/0185/2747/products/global_images-816218021580-1_288x288.jpg?v=1674077556",
+  "price": 46,
+  "reviews": 4,
+  "qty": 1
+},{
+  "id":40,
+  "name": "SKIN",
+  "image": "https://cdn.shopify.com/s/files/1/0283/0185/2747/products/global_images-813269023143-1_288x288.jpg?v=1675403972",
+  "price": 68,
+  "reviews": 4,
+  "qty": 1
+},{
+  "id":41,
+  "name": "CHANTECAILLE",
+  "image": "https://cdn.shopify.com/s/files/1/0283/0185/2747/products/global_images-656509714605-1_288x288.jpg?v=1675406105",
+  "price": 84,
+  "reviews": 4,
+  "qty": 1
+},{
+  "id":42,
+  "name": "DYSON",
+  "image": "https://cdn.shopify.com/s/files/1/0283/0185/2747/products/global_images-885609026893-1_288x288.jpg?v=1674839142",
+  "price": 599,
+  "reviews": 4,
+  "qty": 1
+},{
+  "id":43,
+  "name": "BEAUTYSTAT",
+  "image": "https://cdn.shopify.com/s/files/1/0283/0185/2747/products/global_images-810031550302-1_288x288.jpg?v=1675361622",
+  "price": 30,
+  "reviews": 4,
+  "qty": 1
+},{
+  "id":44,
+  "name": "SUNDAY",
+  "image": "https://cdn.shopify.com/s/files/1/0283/0185/2747/products/global_images-810031550265-1_288x288.jpg?v=1675361575",
+  "price": 31,
+  "reviews": 4,
+  "qty": 1
+}]
